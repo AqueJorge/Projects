@@ -1,3 +1,3 @@
 # Projects
 
-#This is my personal repository for projects related with data engineer
+# This is my personal repository for projects related with Data Engineer
